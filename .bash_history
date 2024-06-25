@@ -1,0 +1,23 @@
+cd z:
+clear
+ls
+clear
+git pull
+git config --global --add safe.directory //amcswinserver/20pw16/
+git pull
+clear
+git status
+clear
+;s
+ls
+clear
+git status
+git add .
+git commit -m "CV class 1
+"
+git push
+git commit -m "CV class 1"
+git push
+git add .
+git commit -m "Cv class 1 updated"
+git push
