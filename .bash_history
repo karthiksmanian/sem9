@@ -21,3 +21,20 @@ git push
 git add .
 git commit -m "Cv class 1 updated"
 git push
+git status
+clear
+nano .gitignore
+clear
+git status
+nano .gitignore
+git status
+git add . 20XW98-FP-LAB/
+git commit -m "Start FP-Haskell"
+clear
+git status
+git push
+clear
+cat .bash_history 
+clear
+ls
+clear
