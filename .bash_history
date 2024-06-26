@@ -38,3 +38,10 @@ cat .bash_history
 clear
 ls
 clear
+git status
+git add .
+git commit -m "Sounds: Aliasing Sinusoids"
+git push
+git status
+clear
+git status
