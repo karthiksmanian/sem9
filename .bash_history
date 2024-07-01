@@ -45,3 +45,32 @@ git push
 git status
 clear
 git status
+git status
+ls
+nano .gitignore
+clear
+ls -a
+clear
+git status
+nano .gitignore
+git status
+git status
+clear
+git status
+git add .
+git commit -m "Complete a okayish GradientDescent"
+git push
+clear
+git status
+git add 20XW96-DL-LAB/ws1/GradientDescent.ipynb 
+git commit -m "An okayish implementation of Gradient Descent'"
+git status
+git add 20XW97-CV-LAB/cv_basics_images.ipynb
+git commit -m "Working with images"
+git add 20XW92-SOFTWARE-TESTING/
+git commit -m "Start ws1 SW Test"
+git status
+git add 20XW97-CV-LAB/image_pattern_generations.ipynb 
+git commit -m "Working with 2D signals"
+git status
+git push
