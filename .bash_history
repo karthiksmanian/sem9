@@ -74,3 +74,4 @@ git add 20XW97-CV-LAB/image_pattern_generations.ipynb
 git commit -m "Working with 2D signals"
 git status
 git push
+jupyter notebook
