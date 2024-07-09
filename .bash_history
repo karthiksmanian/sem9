@@ -75,3 +75,12 @@ git commit -m "Working with 2D signals"
 git status
 git push
 jupyter notebook
+git status
+git add .
+git commit -m "SYNC CV/DL Lab works"
+git push
+git add .
+git commit -m "An Okayish Perceptron Implementation"
+git push
+c;aer
+clear
