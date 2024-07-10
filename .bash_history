@@ -84,3 +84,11 @@ git commit -m "An Okayish Perceptron Implementation"
 git push
 c;aer
 clear
+cd Z:/
+clear
+l;s
+ls
+clear
+git add .
+git commit -m "DL and CV updated"
+git push
