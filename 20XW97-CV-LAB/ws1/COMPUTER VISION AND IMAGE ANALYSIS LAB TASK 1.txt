@@ -1,0 +1,8 @@
+
+Task 1: Record your voice by saying "Hello" and save it as .wav file. Read it and display the voice.
+
+Task 2: Read Lloyd-Max quantization algorithm. If you can understand the concept, try to implement the algorithm. If you could not understand the algorithm, dont do the task.
+
+Task 3: Read the "cameraman image" and store it in different file formats like "jpg", "png","bmp","tif". Analyze how much space is required to store the image in different file formats. Plot the storage space against file format as a bar plot.
+
+Task 4: Read a gray scale image (cameraman image). Write an algorithm to scramble all the pixels in the image. Display the input image and the scrambled image.
