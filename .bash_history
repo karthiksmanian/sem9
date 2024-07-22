@@ -92,3 +92,9 @@ clear
 git add .
 git commit -m "DL and CV updated"
 git push
+git status
+git add 20XW96-DL-LAB/ws1/perceptron.ipynb 
+git commit -m "Add Perceptron Regressor"
+git add .
+git commit -m "SigmoidNeuron on Logic Gates, IRIS"
+git push
