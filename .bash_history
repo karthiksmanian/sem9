@@ -98,3 +98,28 @@ git commit -m "Add Perceptron Regressor"
 git add .
 git commit -m "SigmoidNeuron on Logic Gates, IRIS"
 git push
+clear
+ls
+git status
+git add .
+clear
+ls
+ckear'
+clear
+ls
+ls
+ls -a
+clear
+clear
+clear
+ls
+clear
+git pull
+git pull
+git config --global --add safe.directory '%(prefix)///amcswinserver/20pw16/'
+clear
+git pull
+clear
+git config --global --add safe.directory '/amcswinserver/20pw16/'
+git config --global --add safe.directory '//amcswinserver/20pw16/'
+clear
