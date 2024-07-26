@@ -1,5 +1,2 @@
 [safe]
-	directory = //amcswinserver/20pw16/
 	directory = %(prefix)///amcswinserver/20pw16/
-	directory = C:/Program Files/Git/amcswinserver/20pw16/
-	directory = //amcswinserver/20pw16/
