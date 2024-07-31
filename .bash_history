@@ -123,3 +123,33 @@ clear
 git config --global --add safe.directory '/amcswinserver/20pw16/'
 git config --global --add safe.directory '//amcswinserver/20pw16/'
 clear
+clear
+ls
+nano problem3.py
+python3 problem3.py 
+python problem3.py 
+cat problem3.py 
+clear
+git pull
+clear
+git config --global --edit
+git config --global --edit
+clear
+git pull
+git config --global --add safe.directory '%(prefix)///amcswinserver/20pw16/'
+clear
+git config --global --edit
+clear
+git pull
+git status
+git restore
+git pull
+git restore .
+git status
+git config --global --edit
+clear
+git status
+git pull
+git add .
+git commit -m "Update Gitconfig"
+git push
