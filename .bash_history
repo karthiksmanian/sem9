@@ -153,3 +153,20 @@ git pull
 git add .
 git commit -m "Update Gitconfig"
 git push
+git pull
+clear
+git status
+clear
+;s
+;s
+ls
+ls
+clear
+git add .
+git commit -m "Sync Local to remote"
+git push
+git status
+git status
+git add 20XW96-DL-LAB/ws1/MultiLayerNetworkOfPerceptrons.ipynb 
+git commit -m "Basic MLP from TensorFlow"
+git push
