@@ -1,0 +1,6 @@
+classfication and regression using Perceptron
+sigmoid neuron
+softmax neuron
+regression and classification using MLP
+regularization
+auto encoder*

@@ -170,3 +170,10 @@ git status
 git add 20XW96-DL-LAB/ws1/MultiLayerNetworkOfPerceptrons.ipynb 
 git commit -m "Basic MLP from TensorFlow"
 git push
+git pull
+clear
+git status
+git pull
+git add .
+git commit -m "Sync Lab Work"
+git push
