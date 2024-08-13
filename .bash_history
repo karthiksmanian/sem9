@@ -177,3 +177,29 @@ git pull
 git add .
 git commit -m "Sync Lab Work"
 git push
+git status
+git pull
+git status
+git add 20XW92-SOFTWARE-TESTING/white_box_testing/
+git add Z:/20XW92-SOFTWARE-TESTING/white_box_testing/
+git status
+git add 20XW92-SOFTWARE-TESTING/ws1/white_box_testing/
+git commit -m "Start Whiteboxtesting"
+git status
+git add 20XW93-DEEP-LEARNING/multilayerperceptron.ppt
+git commit -m "MLP PPT"
+git status
+git 20XW96-DL-LAB/ca1labtest_portions.txt
+git commit -m "Update CA1 Portions"
+git add 20XW96-DL-LAB/ws1/MLP.ipynb
+git commit -m "Start MLP Implementation"
+git add .
+git commit -m "SYNC LAB"
+git push
+clear
+git status
+git pull
+clear
+git pull
+git pull
+git pull
