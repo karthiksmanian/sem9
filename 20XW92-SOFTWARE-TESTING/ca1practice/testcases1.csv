@@ -1,0 +1,6 @@
+Test Case,Input Password,Expected Result
+Password length less than 6,abc,Invalid - Password length less than 6
+Password length exactly 6,abcdef,Valid - Password length exactly 6
+Password length between 7 and 11,abcdefg,Valid - Password length between 7 and 11
+Password length exactly 12,abcdefghijk,Valid - Password length exactly 12
+Password length more than 12,abcdefghijklm,Invalid - Password length more than 12

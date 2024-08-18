@@ -1,0 +1,5 @@
+Test Case,Order Value,Expected Result,Equivalence Class
+1,5,Success message,Valid Range (1 to 10)
+2,0,"Error message: ""Invalid Order""",Invalid Range Below 1
+3,50,"Error message: ""Only 10 Pizza can be ordered""",Invalid Range Above 10
+4,100,"Error message: ""Invalid Order""",Invalid Three-Digit Numbers
